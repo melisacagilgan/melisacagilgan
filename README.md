@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/melisacagilgan/"><img alt="LinkedIn" width="32px" src="https://gcdnb.pbrd.co/images/A2QWJN5VOyP6.png?o=1"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="melisacagilgan@gmail.com"><img alt="Gmail" width="37px" src="https://gcdnb.pbrd.co/images/05ZAyPGuSZV7.png?o=1"/></a>
+    <a href="mailto:melisacagilgan@gmail.com"><img alt="Gmail" width="37px" src="https://gcdnb.pbrd.co/images/05ZAyPGuSZV7.png?o=1"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discordapp.com/users/950469803334840380/"><img alt="Discord" width="37px" src="https://gcdnb.pbrd.co/images/DN0jgWxYV3c5.png?o=1"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -53,7 +53,7 @@
 <p>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-black.svg?logo=database&logoColor=4883F1"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-black.svg?logo=oracle&logoColor=E61B23"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-black.svg?logo=sqlite&logoColor=006D7C"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-black.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-black?logo=mariadb&logoColor=09707E"></a>
 </p>
 
