@@ -4,7 +4,7 @@
   Welcome to Melisa Çağılgan's profile!
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="28">
 </h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Senior%20Computer%20Engineering%20Student;Data%20Science%20and%20A.I.%20Enthusiast;while(!(succeed=try()))&font=Arial%20Code&center=true&width=450&height=45&color=34D32D&vCenter=true&size=22&pause=1500"></a>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Fresh%20Graduate%20Computer%20Engineer;Data%20Science%20and%20A.I.%20Enthusiast;while(!(succeed=try()))&font=Arial%20Code&center=true&width=450&height=45&color=34D32D&vCenter=true&size=22&pause=1500"></a>
 </p>
 
 <p align="center">
