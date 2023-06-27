@@ -24,7 +24,7 @@
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=4B8BBE"></a>
     <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-black.svg?logo=java&logoColor=ED1025"></a>
-    <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-black.svg?logo=javascript&logoColor=00599c"></a>
+    <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-black.svg?logo=javascript"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-black.svg?logo=cpp2&logoColor=00599c"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-black.svg?logo=c-in-hexagon&logoColor=00599c"></a>
     <a href="#"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-black?logo=Haskell&logoColor=7A57F0"></a>
