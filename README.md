@@ -12,7 +12,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:melisacagilgan@gmail.com"><img alt="Gmail" width="32px" src="https://scontent.fadb6-1.fna.fbcdn.net/v/t1.15752-9/323092542_579477036848443_4396962868468590689_n.png?stp=cp0_dst-png&_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=2lNzJCmXMl8AX-5uYT3&_nc_ht=scontent.fadb6-1.fna&oh=03_AdQjvPc1Acw7SfauD2Aag4bqe7lIJcstvk7xqUmscXUKoA&oe=65E8B957"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discordapp.com/users/950469803334840380/"><img alt="Discord" width="32px" src="https://scontent.fadb6-5.fna.fbcdn.net/v/t1.15752-9/323756374_1298393800954318_646376918704877585_n.png?stp=cp0_dst-png&_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=YTMViCYpPQsAX9YwSPl&_nc_ht=scontent.fadb6-5.fna&oh=03_AdRi_GYeZLwyUPf-orTPKAD5Ip_4QGl1R99Qvmx8xxOCPw&oe=65E8E79E"/></a>
+    <a href="https://discordapp.com/users/1173725741272268840/"><img alt="Discord" width="32px" src="https://scontent.fadb6-5.fna.fbcdn.net/v/t1.15752-9/323756374_1298393800954318_646376918704877585_n.png?stp=cp0_dst-png&_nc_cat=105&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=YTMViCYpPQsAX9YwSPl&_nc_ht=scontent.fadb6-5.fna&oh=03_AdRi_GYeZLwyUPf-orTPKAD5Ip_4QGl1R99Qvmx8xxOCPw&oe=65E8E79E"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/encoderinblack/"><img alt="Instagram" width="32px" src="https://scontent.fadb6-4.fna.fbcdn.net/v/t1.15752-9/323544702_3384235698561047_1569576116165120732_n.png?stp=cp0_dst-png&_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=1qnuVhTi_ugAX9OSEcW&_nc_ht=scontent.fadb6-4.fna&oh=03_AdRcvXG2fVkPHi5IsTn0SnPCXs3KCldP2WPkj_Cn5AjSjQ&oe=65E8B860"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
