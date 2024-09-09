@@ -12,7 +12,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="mailto:melisacagilgan@gmail.com"><img alt="Gmail" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744325054398564/323092542_579477036848443_4396962868468590689_n.png?ex=66e0783f&is=66df26bf&hm=aa78b539debf1ad9822f75805b3c3faaa1fd4fb2c87a7c31028082324d00d743&"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discordapp.com/users/1173725741272268840/"><img alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744349800796221/323756374_1298393800954318_646376918704877585_n.png?ex=66e07845&is=66df26c5&hm=fc68b7364121cef82c3c7a9a6887949227114821b17736acca39f5ed917de61c&"/></a>
+    <a href="https://discordapp.com/users/1244851003908685879/"><img alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744349800796221/323756374_1298393800954318_646376918704877585_n.png?ex=66e07845&is=66df26c5&hm=fc68b7364121cef82c3c7a9a6887949227114821b17736acca39f5ed917de61c&"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/encoderinblack/"><img alt="Instagram" width="32px" src="https://github.com/user-attachments/assets/e6d54960-b08b-4325-b013-89d814ef1dde"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
