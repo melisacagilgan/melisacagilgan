@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/melisacagilgan/"><img alt="LinkedIn" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744304208707655/324811774_1256606044889726_3971108725490093756_n.png?ex=66e0783a&is=66df26ba&hm=fb3347d31946533af71ac134b39013aab445dbadcf140ee4817747cbcefc662e&"/></a>
+    <a href="https://www.linkedin.com/in/melisacagilgan/"><img alt="LinkedIn" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590949070082099/324811774_1256606044889726_3971108725490093756_n.png?ex=675453ba&is=6753023a&hm=dcdcb4c0b1aa874651dcdc4e85ed4c0266dd4d77ecf31d3c6ccfe28ea0f58bbc&"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:melisacagilgan@gmail.com"><img alt="Gmail" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744325054398564/323092542_579477036848443_4396962868468590689_n.png?ex=66e0783f&is=66df26bf&hm=aa78b539debf1ad9822f75805b3c3faaa1fd4fb2c87a7c31028082324d00d743&"/></a>
+    <a href="mailto:melisacagilgan@gmail.com"><img alt="Gmail" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590983865765898/323092542_579477036848443_4396962868468590689_n.png?ex=675453c2&is=67530242&hm=e9a79788d537b4a1f46e9b07fd082c58fcbd366ecc9086be10ee8053612a1186&"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discordapp.com/users/1244851003908685879/"><img alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/1255609058338017430/1282744349800796221/323756374_1298393800954318_646376918704877585_n.png?ex=66e07845&is=66df26c5&hm=fc68b7364121cef82c3c7a9a6887949227114821b17736acca39f5ed917de61c&"/></a>
+    <a href="https://discordapp.com/users/1244851003908685879/"><img alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590887581323274/323756374_1298393800954318_646376918704877585_n.png?ex=675453ab&is=6753022b&hm=617f3133ef0be3aff3e74e4d49988ad620beef55ab32d0063125be1edddbd1af&"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/encoderinblack/"><img alt="Instagram" width="32px" src="https://github.com/user-attachments/assets/e6d54960-b08b-4325-b013-89d814ef1dde"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
