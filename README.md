@@ -4,15 +4,15 @@
   Welcome to Melisa Çağılgan's profile!
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="28">
 </h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Engineer;Data%20Science%20and%20A.I.%20Enthusiast;while(!(succeed=try()))&font=Arial%20Code&center=true&width=450&height=45&color=34D32D&vCenter=true&size=22&pause=1500"></a>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Engineer;Data%20Science%20and%20AI%20Enthusiast;while(!(succeed=try()))&font=Arial%20Code&center=true&width=450&height=45&color=34D32D&vCenter=true&size=22&pause=1500"></a>
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/melisacagilgan/"><img alt="LinkedIn" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590949070082099/324811774_1256606044889726_3971108725490093756_n.png?ex=675453ba&is=6753023a&hm=dcdcb4c0b1aa874651dcdc4e85ed4c0266dd4d77ecf31d3c6ccfe28ea0f58bbc&"/></a>
+    <a href="https://www.linkedin.com/in/melisacagilgan/"><img alt="LinkedIn" width="32px" src="https://scontent.fteq5-1.fna.fbcdn.net/v/t1.15752-9/324811774_1256606044889726_3971108725490093756_n.png?stp=cp0_dst-png&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=MU1iR3f_v3cQ7kNvwHsZWPa&_nc_oc=Adll4IJaK2Qf19iYvCWEC8xkSdeOZCkx9tOIbNvCeYVxXWMC6qyI4RwhQJOwwidEDQ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fteq5-1.fna&oh=03_Q7cD3AFRL0ubOrYC85VbQIosibdhRyZdLi7RfUKU3AcqdUA8mQ&oe=68C26FE6"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:melisacagilgan@gmail.com?subject=&cc=&bcc=&body="><img alt="Gmail" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590983865765898/323092542_579477036848443_4396962868468590689_n.png?ex=675453c2&is=67530242&hm=e9a79788d537b4a1f46e9b07fd082c58fcbd366ecc9086be10ee8053612a1186&"/></a>
+    <a href="mailto:melisacagilgan@gmail.com?subject=&cc=&bcc=&body="><img alt="Gmail" width="32px" src="https://scontent.fteq5-1.fna.fbcdn.net/v/t1.15752-9/323092542_579477036848443_4396962868468590689_n.png?stp=cp0_dst-png&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_ohc=nFOboNAeL-UQ7kNvwG3jDZm&_nc_oc=AdlV8Asaovsk7mMfLxz92REOywvwKP9EVOXvV6ElCzqkMUfJlkHxl12HTKHm9uth_P8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fteq5-1.fna&oh=03_Q7cD3AGQHtBO2J_-ZFcmAn9iMyXv0cltgVHHGzl2WkIAiqoHnQ&oe=68C26F97"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discordapp.com/users/1244851003908685879/"><img alt="Discord" width="32px" src="https://cdn.discordapp.com/attachments/1244857233037201420/1314590887581323274/323756374_1298393800954318_646376918704877585_n.png?ex=675453ab&is=6753022b&hm=617f3133ef0be3aff3e74e4d49988ad620beef55ab32d0063125be1edddbd1af&"/></a>
+    <a href="https://discordapp.com/users/1244851003908685879/"><img alt="Discord" width="32px" src="https://scontent.fteq5-1.fna.fbcdn.net/v/t1.15752-9/323756374_1298393800954318_646376918704877585_n.png?stp=cp0_dst-png&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=B5hHvuGJKC4Q7kNvwFTQ36l&_nc_oc=AdkCt1b68p-ynVoVEDZIDbDXPLAXf32uXRbG-aKV0JS8b86kvYxP3Rl4wP0e5IeMOUM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fteq5-1.fna&oh=03_Q7cD3AGZ-F9iGqDA9KYHMyNwcYzugyVD9grPqHsw3wqKzIsCHg&oe=68C29DDE"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.instagram.com/encoderinblack/"><img alt="Instagram" width="32px" src="https://github.com/user-attachments/assets/e6d54960-b08b-4325-b013-89d814ef1dde"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
