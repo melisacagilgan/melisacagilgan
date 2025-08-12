@@ -38,7 +38,7 @@
     <a href="https://keras.io"><img alt="Keras" src="https://img.shields.io/badge/Keras-black.svg?logo=Keras&logoColor=F80202"></a>
     <a href="https://www.tensorflow.org"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-black.svg?logo=TensorFlow&logoColor=FF6F00"></a>
     <a href="https://pytorch.org"><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-black.svg?logo=pytorch&logoColor=E44900"></a>
-    <a href="https://www.pytorchlightning.ai"> <img alt="PyTorch Lightning" src="https://img.shields.io/badge/PyTorch Lightning-black?logo=PyTorch Lightning&logoColor=792EE5"></a>
+    <a href="https://www.pytorchlightning.ai"> <img alt="PyTorch Lightning" src="https://www.tutorialspoint.com/pytorch-lightning/images/pytorch-lightning-mini-logo.jpg" width="80" height="80"></a>
     <a href="https://scikit-learn.org/"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-black.svg?logo=scikit-learn&logoColor=FF6F00"></a>
     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-black.svg?logo=numpy&logoColor=04A2D5"></a>
     <a href="https://opencv.org"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-black?logo=OpenCV&logoColor=5CF157"></a>
